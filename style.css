@@ -1,0 +1,66 @@
+/*Global*/
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ; 
+    margin: 0;
+
+}
+
+p{
+    line-height: 2;
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+}
+
+/*Navigation*/
+.nav-menu{
+    
+    background-color: #001D3D;
+    padding: 20px; 
+    text-align:center;
+ 
+ }
+ 
+ .nav-menu a{
+ 
+     margin:30px;
+     letter-spacing: 2px;
+     padding-bottom: 2px;
+     text-decoration: underline  0.2em rgba(0, 0, 0, 0);
+     transition: text-decoration-color 300ms;
+ }
+ 
+ .nav-menu a:hover,
+ .nav-menu a:focus {
+     text-decoration-color: rgb(255, 255, 255);
+    
+ }
+ 
+
+body{
+    Background: #333533 ; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ; 
+    color: #D6D6D6;
+    overflow-x: hidden;
+}
+
+
+
+
+
+/*Hobbies*/
+.hobbies h3{
+    text-align: center; 
+    font-size: 50px;
+    color: #FFD60A;
+
+}
+.hobbies h4{
+    font-style: oblique;
+     text-align: center;
+}
+
